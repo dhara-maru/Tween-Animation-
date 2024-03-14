@@ -1,6 +1,6 @@
 # Tween Animation
 
-A new Flutter project.
+Tutorial from wscube tech.
 
 ## Getting Started
 
