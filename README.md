@@ -1,4 +1,4 @@
-# animated_slider
+# Tween Animation
 
 A new Flutter project.
 
